@@ -16,4 +16,5 @@ The script has a dynamic **whitelist** where you can add or remove specific char
 - Python 3.x
 - OpenCC library
 
+## Attribution
 This project uses OpenCC (https://github.com/BYVoid/OpenCC), which is licensed under the Apache License 2.0.
