@@ -1,4 +1,4 @@
-# Simplified Chinese Detector
+# Tradify
 
 This simple tool is a Python script that detects Simplified Chinese characters in a given paragraph.  
 It uses the **OpenCC** library to convert Simplified Chinese text to Traditional Chinese and then checks for any differences, identifying the Simplified Chinese characters. The script has a dynamic **whitelist** where you can add or remove specific characters that should not be flagged as Simplified Chinese.
