@@ -24,7 +24,7 @@ It uses the **OpenCC** library to convert Simplified Chinese text to Traditional
 ## Usage
 Run the script:
 ```bash
-python simplified-chinese-detector.py
+python tradify.py
 ```
 ## Attribution
 This project uses [OpenCC](https://github.com/BYVoid/OpenCC), licensed under the Apache License 2.0.
