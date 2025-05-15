@@ -32,7 +32,7 @@ def simplified_text_check(text):
 
 # Main loop
 while True:
-    print("\n[Tradify]")
+    print("\n[TRADIFY]")
     text = input("Input text (or type 'help'): ").strip()
 
     if text.lower() == "help":
